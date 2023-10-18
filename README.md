@@ -11,7 +11,7 @@
   
 ## 国内会議
 - 寺田 智哉, 遠藤 慶一, 小林 真也: "文意ベクトル間距離に基づくニュースヘッドラインに対する興味推定," <br>
-マルチメディア、分散、協調とモバイル(DICOMO2023)シンポジウム, 富山, July 2023.[Page](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=228050&item_no=1&page_id=13&block_id=8)
+マルチメディア、分散、協調とモバイル(DICOMO2023)シンポジウム, 富山, July 2023.[[Page]](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=228050&item_no=1&page_id=13&block_id=8)
 ## 受賞
 
 
